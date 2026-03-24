@@ -12,3 +12,28 @@ Using this structure, we identify both a maximally oriented partially directed a
 We further demonstrate how both the abstraction and the class of causal orders can be used to estimate causal effects.
 We evaluate our method on a wide set of causal DAGs extracted from scientific literature in epidemiology and public health.
 Our results show that the proposed approach can effectively recover the correct causal order, providing a reliable and practical LLM-assisted causal framework.
+
+
+To launch the code:
+```
+pip install -r requirements.txt
+pip install .
+```
+Before running the code using OpenAI models you need to get an OpenAI API Key: https://platform.openai.com/docs/overview,
+and define it explicitly in you enviroment:
+```
+export OPENAI_API_KEY=<api_key>
+```
+If you are running one of the models supported by Ollama, please refer to their official documentation: https://github.com/ollama/ollama-python.
+The name of the models that can be specified in input is the same provided in the official documentation by both OpenAI and Ollama. 
+```
+python main.py [-h] [--dataset DATASET] [--model MODEL] [--temperature TEMPERATURE] 
+```
+Example of prompts:
+```
+python main.py --dataset cancer --model gpt-4.1-nano 
+```
+
+Computing the consistency matrix might require a lot time. 
+To make things easier, most of the consistency matrix for the dataset available in the folder data 
+are already stored in the folder data/consistency_matrix.
