@@ -1,0 +1,6 @@
+node,var_name,var_description_english,var_description_italian,var_description_french,var_description_chinese,treatment,target
+1,diabetes,prevalence of diabetes,prevalenza del diabete,prévalence du diabète,糖尿病患病率,0,0
+2,pop60,proportion of population over 60,proporzione di popolazione oltre i 60 anni,proportion de la population de plus de 60 ans,60岁以上人口比例,0,0
+3,Covid-19inc,covid-19 incidence,incidenza di Covid-19,incidence de Covid-19,Covid-19发病率,1,0
+4,ICUbeds,number of intensive care beds per inhabitants,numero di letti di terapia intensiva per abitanti,nombre de lits de soins intensifs par habitants,每位居民的重症监护病床数,0,0
+5,hosprate,infection fatality rate or infected hospitalisation rate,tasso di ospedalizzazione per infezione,taux d'hospitalisation pour infection,感染住院率,0,1

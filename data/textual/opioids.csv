@@ -1,0 +1,26 @@
+node,var_name,var_description_english,var_description_italian,var_description_french,var_description_chinese,treatment,target
+1,Age,age,età,âge,年龄,0,0
+2,Married,marital status,stato civile,état matrimonial,已婚,0,0
+3,Smoking,smoking,fumare,fumer,吸烟,0,0
+4,Alcohol,alcohol intake,assunzione di alcohol,consommation d'alcool,酒精,0,0
+5,Antidep,anti-depressant medication prescription,prescrizione di farmaci antidepressivi,ordonnance de médicaments antidépresseurs,抗抑郁药物处方,0,0
+6,Sex,sex,genere,sexe,性别,0,0
+7,Edu,education level,livello di istruzione,niveau d'éducation,教育水平,1,0
+8,Poverty,poverty income ratio,rapporto povertà-reddito,rapport pauvreté-revenu,贫困,0,0
+9,Insurance,health insurance coverage,copertura assicurativa sanitaria,couverture d'assurance maladie,保险,0,0
+10,Pain,chronic pain,dolore cronico,douleur chronique,慢性疼痛,0,0
+11,Mortality,mortality,mortalità,mortalité,死亡率,0,1
+12,Codeine,codeine use,uso di codeina,utilisation de la codéine,可待因,0,0
+13,Dihydrocodeine,dihydrocodeine use,uso di diidrocodeina,utilisation de la dihydrocodéine,二氢可待因,0,0
+14,Pentazocine,pentazocine use,uso di pentazocina,utilisation de la pentazocine,哌替啶,0,0
+15,Peperidine,peperidine use,uso di peperidina,utilisation de la péthidine,哌替啶,0,0
+16,Propoxyphene,propoxyphene use,uso di propossifene,utilisation de la propoxyphène,丙哌利定,0,0
+17,Tramadol,tramadol use,uso di tramadolo,utilisation du tramadol,曲马多,0,0
+18,Hydrocodone,hydrocodone use,uso di idrocodone,utilisation de l'hydrocodone,羟考酮,0,0
+19,Morphine,morphine use,uso di morfina,utilisation de la morphine,吗啡,0,0
+20,Tapentadol,tapentadol use,uso di tapentadolo,utilisation du tapentadol,他芬太诺,0,0
+21,Fentanyl,fentanyl use,uso di fentanil,utilisation du fentanyl,芬太尼,0,0
+22,Hydromorphone,hydromorphone use,uso di idromorfone,utilisation de l'hydromorphone,羟吗啡,0,0
+23,Methadone,methadone use,uso di metadone,utilisation de la méthadone,美沙酮,0,0
+24,Oxycodone,oxycodone use,uso di ossicodone,utilisation de l'oxycodone,羟考酮,0,0
+25,Oxymorphone,oxymorphone use,uso di ossimorfona,utilisation de l'oxymorphone,羟吗啡,0,0

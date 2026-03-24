@@ -1,0 +1,7 @@
+node,var_name,var_description_english,var_description_italian,var_description_french,var_description_chinese,treatment,target
+1,FTO,gene FTO,gene FTO,gene FTO,FTO基因,0,0    
+2,MC4R,gene MC4R,gene MC4R,gene MC4R,MC4R基因,0,0
+3,TMEM18,gene TMEM18,gene TMEM18,gene TMEM18,TMEM18基因,0,0
+4,GNPDA2,gene GNPDA2,gene GNPDA2,gene GNPDA2,GNPDA2基因,0,0
+5,Fat,fat mass,fat mass,masse grasse,脂肪,1,0
+6,Bone,bone mineral density,densità minerale ossea,densité minérale osseuse,骨密度,0,1

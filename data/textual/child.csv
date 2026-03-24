@@ -1,0 +1,21 @@
+node,var_name,var_description_english,var_description_italian,var_description_french,var_description_chinese,treatment,target
+1,BirthAsphyxia,lack of oxygen to the blood during the infant's birth,mancanza di ossigeno al sangue durante il parto,manque d'oxygène dans le sang lors de la naissance,新生儿出生时血液缺氧,0,0
+2,Disease,infant methemoglobinemia,metemoglobinemia infantile,metemoglobinémie infantile,婴儿高铁血红蛋白血症,1,0
+3,Age,age of infant at disease presentation,età del bambino alla presentazione della malattia,âge du nourrisson à la présentation de la maladie,疾病呈现时婴儿的年龄,0,0
+4,LVH,thickening of the left ventricle,ispessimento del ventricolo sinistro,épaississement du ventricule gauche,左心室增厚,0,0
+5,DuctFlow,blood flow across the ductus arteriosus,flusso sanguigno attraverso il dotto arterioso,flux sanguin à travers le canal artériel,动脉导管的血流,0,0
+6,CardiacMixing,mixing of oxygenated and deoxygenated blood,miscelazione di sangue ossigenato e disossigenato,mélange de sang oxygéné et désoxygéné,氧合和脱氧血液的混合,0,0
+7,LungParench,the state of the blood vessels in the lungs,lo stato dei vasi sanguigni nei polmoni,l'état des vaisseaux sanguins dans les poumons,肺部血管的状态,0,0
+8,LungFlow,low blood flow in the lungs,basso flusso sanguigno nei polmoni,faible flux sanguin dans les poumons,肺部血流量低,0,0
+9,Sick,presence of an illness,presenza di una malattia,présence d'une maladie,疾病的存在,0,0
+10,HypoxiaDistribution,low oxygen areas equally distributed around the body,aree a basso ossigeno distribuite in modo uniforme intorno al corpo,faibles zones d'oxygène réparties uniformément autour du corps,全身各处均匀分布的低氧区,0,0
+11,O2Hypoxia,hypoxia when breathing oxygen,ipossia quando si respira ossigeno,hypoxie lors de la respiration d'oxygène,呼吸氧气时的低氧,0,0
+12,CO2,level of CO2 in the body,livello di CO2 nel corpo,niveau de CO2 dans le corps,体内CO2水平,0,0
+13,ChestXray,having a chest x-ray,avere una radiografia al torace,avoir une radiographie thoracique,胸部X光,0,0
+14,Grunting,grunting in infants,grugnito nei neonati,ronflement chez les nourrissons,婴儿的呼噜声,0,0
+15,LVHreport,report of having LVH,rapporto di avere LVH,rapport d'avoir LVH,有LVH的报告,0,0
+16,LowerBodO2,level of oxygen in the lower body,livello di ossigeno nella parte inferiore del corpo,niveau d'oxygène dans le bas du corps,下半身的氧气水平,0,1
+17,RightQuadO2,level of oxygen in the right up quadricep muscule,livello di ossigeno nel muscolo quadricipite destro superiore,niveau d'oxygène dans le muscle quadriceps droit supérieur,右上股四头肌肌肉中的氧气水平,0,0
+18,CO2Report,a document reporting high level of CO2 levels in blood,un documento che segnala alti livelli di CO2 nel sangue,un document signalant des niveaux élevés de CO2 dans le sang,报告血液中CO2水平过高,0,0
+19,XrayReport,lung excessively filled with blood,polmoni eccessivamente pieni di sangue,poumons excessivement remplis de sang,肺部过度充满血液,0,0
+20,GruntingReport,report of infant grunting,rapporto di grugnito del bambino,rapport de grognement du nourrisson,婴儿呼噜声的报告,0,0

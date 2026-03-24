@@ -1,0 +1,24 @@
+lack of oxygen to the blood during the infant's birth,infant methemoglobinemia,0.22831356782368425
+infant methemoglobinemia,presence of an illness,0.49064316050913903
+infant methemoglobinemia,blood flow across the ductus arteriosus,0.3346099698864652
+infant methemoglobinemia,mixing of oxygenated and deoxygenated blood,0.7369847533735923
+infant methemoglobinemia,the state of the blood vessels in the lungs,0.29170245681730717
+infant methemoglobinemia,low blood flow in the lungs,0.12424421541185192
+infant methemoglobinemia,thickening of the left ventricle,-0.6523940427362152
+infant methemoglobinemia,age of infant at disease presentation,0.21698342235669144
+presence of an illness,grunting in infants,-0.4384708513725748
+presence of an illness,low oxygen areas equally distributed around the body,0.6861495421240233
+blood flow across the ductus arteriosus,low oxygen areas equally distributed around the body,0.712591536725094
+mixing of oxygenated and deoxygenated blood,low oxygen areas equally distributed around the body,-0.7034205691666684
+mixing of oxygenated and deoxygenated blood,hypoxia when breathing oxygen,0.19018435677560855
+the state of the blood vessels in the lungs,grunting in infants,0.16915110490613947
+the state of the blood vessels in the lungs,hypoxia when breathing oxygen,-0.11946859285997613
+the state of the blood vessels in the lungs,level of CO2 in the body,-0.9069943084987814
+the state of the blood vessels in the lungs,having a chest x-ray,0.4656578756512132
+thickening of the left ventricle,report of having LVH,-0.556245727179338
+grunting in infants,report of infant grunting,-0.5623355832137658
+low oxygen areas equally distributed around the body,level of oxygen in the lower body,-0.5945062506786205
+hypoxia when breathing oxygen,level of oxygen in the lower body,0.9312432956644827
+hypoxia when breathing oxygen,level of oxygen in the right up quadricep muscule,-0.9867086298123571
+level of CO2 in the body,a document reporting high level of CO2 levels in blood,-0.382138648413183
+having a chest x-ray,lung excessively filled with blood,0.5513503378656011

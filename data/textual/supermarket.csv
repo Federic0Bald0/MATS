@@ -1,0 +1,8 @@
+node,var_name,var_description_english,var_description_italian,var_description_french,var_description_chinese,treatment,target
+1,neighborhood,level of education and income in the a neighborhood,educazione e reddito del quartiere,éducation et revenu du quartier,社区教育和收入,0,0
+2,income,household income,reddito familiare,revenu du ménage,家庭收入,0,0
+3,education,level of education,livello di istruzione,niveau d'éducation,教育水平,1,0
+4,food,food preferences,preferenze alimentari,préférences alimentaires,食物偏好,0,0
+5,supermarket,supermarket characteristics,caratteristiche del supermercato,caractéristiques du supermarché,超市特征
+6,weight,weight status and adiposity,stato del peso e adiposità,état du poids et de l'adiposité,体重状态和脂肪,0,1
+7,purchase,purchased food items,articoli alimentari acquistati,articles alimentaires achetés,购买的食品,0,0

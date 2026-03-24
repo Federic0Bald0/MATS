@@ -1,0 +1,12 @@
+node,var_name,var_description_english,var_description_italian,var_description_french,var_description_chinese,treatment,target
+1,PCK,protein kinase C,proteina chinasi c,protéine kinase c,蛋白激酶c,1,0
+2,Plcg,phospholipase C,fosfolipasi C,phospholipase C,磷脂酶C,0,0
+3,PKA,phosphorylation of protein kinase A,fosforilazione della proteina chinasi A,phosphorylation de la protéine kinase A,蛋白激酶A的磷酸化,0,0
+4,PIP3,"phosphatidylinositol 3;4;5-triphosphate","fosfatidilinositolo 3;4;5-trifosfato","phosphatidylinositol 3;4;5-triphosphate","磷脂酰肌醇3;4;5-三磷酸",0,0
+5,Raf,RAF kinase,RAF chinasi,RAF kinase,RAF激酶,0,0
+6,Jnk,C-Jun N-terminal kinases (Jnk),c-Jun N-terminal chinasi,c-Jun N-terminal kinases,c-Jun N末端激酶,0,0
+7,P38,p38 mitogen-activated protein kinases,p38 mitogen-activated protein chinasi,p38 mitogen-activated protein kinases,p38有丝分裂原活化蛋白激酶,0,0
+8,PIP2,"phosphatidylinositol 4;5-bisphosphate","fosfatidilinositolo 4;5-bisfosfato","phosphatidylinositol 4;5-bisphosphate","磷脂酰肌醇4;5-二磷酸",0,0
+9,Mek,mitogen-activated protein kinase kinase (Mek),mitogen-activated protein kinase chinasi,mitogen-activated protein kinase kinase,有丝分裂原活化蛋白激酶激酶,0,0
+10,Erk,extracellular signal-regulated kinases (Erk),Extracellular signal-regulated chinasi,Extracellular signal-regulated kinases,细胞外信号调节激酶,0,0
+11,Akt,protein kinase B (Akt),proteina chinasi B,protéine kinase B,蛋白激酶B,0,1

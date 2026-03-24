@@ -1,0 +1,17 @@
+protein kinase C,phosphorylation of protein kinase A,0.32990051483816124
+protein kinase C,RAF kinase,0.20188536818782993
+protein kinase C,C-Jun N-terminal kinases (Jnk),0.7580653451014817
+protein kinase C,p38 mitogen-activated protein kinases,0.22489067655901285
+protein kinase C,mitogen-activated protein kinase kinase (Mek),0.8885070399198489
+phosphorylation of protein kinase A,RAF kinase,0.4426821253402886
+phosphorylation of protein kinase A,C-Jun N-terminal kinases (Jnk),0.9247108346276968
+phosphorylation of protein kinase A,p38 mitogen-activated protein kinases,0.2190167687952322
+phosphorylation of protein kinase A,mitogen-activated protein kinase kinase (Mek),-0.3784222530037825
+phosphorylation of protein kinase A,extracellular signal-regulated kinases (Erk),0.3374307450549732
+phosphorylation of protein kinase A,protein kinase B (Akt),-0.72454216679431
+RAF kinase,mitogen-activated protein kinase kinase (Mek),0.36891000806848095
+mitogen-activated protein kinase kinase (Mek),extracellular signal-regulated kinases (Erk),0.6363810554902316
+extracellular signal-regulated kinases (Erk),protein kinase B (Akt),0.2662959160886448
+phospholipase C,phosphatidylinositol 4;5-bisphosphate,0.7962343327249068
+phospholipase C,phosphatidylinositol 3;4;5-triphosphate,0.7983627106921451
+phosphatidylinositol 3;4;5-triphosphate,phosphatidylinositol 4;5-bisphosphate,0.8851669888931217

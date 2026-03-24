@@ -1,0 +1,12 @@
+level of education and income in the a neighborhood,supermarket characteristics,-0.34193465489851826
+level of education and income in the a neighborhood,weight status and adiposity,0.655707268419505
+supermarket characteristics,purchased food items,0.8851669888931217
+purchased food items,weight status and adiposity,0.9751035607178827
+household income,level of education and income in the a neighborhood,0.32990051483816124
+household income,supermarket characteristics,-0.1752891653723032
+household income,purchased food items,0.5853011219837296
+level of education,level of education and income in the a neighborhood,0.856313308470401
+level of education,household income,-0.85883380992796
+level of education,food preferences,0.8816009120785858
+food preferences,purchased food items,0.2635018016910433
+food preferences,supermarket characteristics,0.24364379112223442

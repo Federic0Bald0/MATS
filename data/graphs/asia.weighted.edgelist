@@ -1,0 +1,8 @@
+visiting asia,tuberculosis,0.32990051483816124
+tuberculosis,individual has either tuberculosis or lung cancer,0.5893847733123374
+individual has either tuberculosis or lung cancer,dyspnoea or laboured breathing ,0.655707268419505
+individual has either tuberculosis or lung cancer,positive x-ray,0.24364379112223442
+smoking cigarettes,lung cancer,0.7983627106921451
+smoking cigarettes,bronchitis,0.20188536818782993
+lung cancer,individual has either tuberculosis or lung cancer,0.7580653451014817
+bronchitis,dyspnoea or laboured breathing ,0.9751035607178827

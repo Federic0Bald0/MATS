@@ -1,0 +1,7 @@
+node,var_name,var_description_english,var_description_italian,var_description_french,var_description_chinese,treatment,target
+1,green,low accessibility to green spaces,bassa accessibilità a spazi verdi,faible accessibilité aux espaces verts,绿色空间的可及性低,0,0
+2,socioeco,low socioeconomic position neighborhood,basso livello socioeconomico del quartiere,quartier à faible position socio-économique,社会经济地位较低的社区,0,0
+3,service,lack of services,assenza di servizi,manque de services,缺乏服务,0,0
+4,pollution,proximity to pollution industry,prossimità a industria inquinante,proximité de l'industrie de la pollution,污染工业的邻近,1,0
+5,walk,reduced walkability of the neighborhood,ridotta percorribilità del quartiere,accessibilité réduite du quartier,社区的可步行性降低,0,1
+6,criminality,exposure to high criminality levels,esposizione a livelli elevati di criminalità,exposition à des niveaux élevés de criminalité,暴露于高犯罪水平,0,0

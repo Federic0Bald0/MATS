@@ -1,0 +1,5 @@
+node,var_name,var_description_english,var_description_italian,var_description_french,var_description_chinese,treatment,target
+1,Frailty,higher susceptibility to develop severe covid-19 infection,suscettibilità maggiore a esiti avversi di Covid-19,susceptibilité accrue aux résultats défavorables de Covid-19,更容易受到不利Covid-19结果的影响,0,0
+2,ACE-inhibitors,using ace inhibitors,inibitori dell'enzima di conversione dell'angiotensina (ACE),inhibiteurs de l'enzyme de conversion de l'angiotensine (ACE),血管紧张素转化酶（ACE）抑制剂,1,0
+3,Hospitalization,hospitalization,ricovero ospedaliero,hospitalisation,住院,0,0
+4,Death,death,morte,décès,死亡,0,1

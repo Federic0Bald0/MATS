@@ -1,0 +1,9 @@
+node,var_name,var_description_english,var_description_italian,var_description_french,var_description_chinese,treatment,target
+1,asia,visiting asia,visitato l'Asia,visité l'Asie,访问亚洲,0,0
+2,tub,tuberculosis,tubercolosi,tuberculose,结核病,0,0
+3,smoke,smoking cigarettes,fumare sigarette,fumer des cigarettes,吸烟,1,0
+4,lung,lung cancer,cancro ai polmoni,cancer du poumon,肺癌,0,0
+5,bronc,bronchitis,bronchite,bronchite,支气管炎,0,0
+6,either,individual has either tuberculosis or lung cancer,individuo ha tubercolosi o cancro ai polmoni,individu a soit la tuberculose soit le cancer du poumon,个体患有结核病或肺癌,0,0
+7,x-ray,positive x-ray,raggi x positivi,rayons x positifs,正面X光,0,0
+8,dysp,"dyspnoea or laboured breathing ",respiro affannoso,respiration laborieuse,呼吸困难,0,1

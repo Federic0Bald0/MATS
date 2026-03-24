@@ -1,0 +1,4 @@
+node,var_name,var_description_english,var_description_italian,var_description_french,var_description_chinese,treatment,target
+1,Age,age bracket of a subject,età,âge,年龄,1,0
+2,Covid-19 infection,higher risk of being infected with covid-19,infettato da Covid-19,infecté par Covid-19,感,0,0
+3,App Usage,voluntarily using data collection of epidemiological data via mobile phone apps,raccolta volontaria di dati tramite app per telefoni cellulare,collecte de données volontaire via des applications mobiles,通过手机应用程序自愿收集数据,0,1

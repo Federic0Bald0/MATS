@@ -1,0 +1,6 @@
+node,var_name,var_description_english,var_description_italian,var_description_french,var_description_chinese,treatment,target
+1,MSU,dispatched mobile stroke unit,unità mobile di ictus inviata,unité mobile d'accident vasculaire cérébral envoyée,调度的移动中风单元,1,0
+2,mRs,level of functional independence with reference to pre-stroke activities,grado di indipendenza funzionale con riferimento alle attività pre-ictus,niveau d'indépendance fonctionnelle par rapport aux activités pré-AVC,参考前中风活动的功能独立水平,0,1
+3,thrombolysis,time to thrombolysis,tempo per la trombolisi,temps de thrombolyse,溶栓时间,0,0
+4,systolicpress,systolic blood pressure,pressione sanguigna sistolica,pression artérielle systolique,收缩压,0,0
+5,stroke,stroke severity,gravità dell'ictus,gravité de l'accident vasculaire cérébral,中风严重程度,0,0

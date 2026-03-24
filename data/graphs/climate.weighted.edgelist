@@ -1,0 +1,8 @@
+temperature,relative humidity,0.32990051483816124
+temperature,transmission rate of a disease,-0.85883380992796
+relative humidity,transmission rate of a disease,0.5221621430039474
+transmission rate of a disease,rate of incidence of a disease in the population,-0.34193465489851826
+rate of incidence of a disease in the population,observed incidence rate in the population,0.655707268419505
+dew point temperature,relative humidity,0.856313308470401
+rate of infection of a disease in the population,rate of incidence of a disease in the population,-0.1752891653723032
+size of the susceptible population,rate of incidence of a disease in the population,0.24364379112223442

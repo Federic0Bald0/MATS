@@ -1,0 +1,5 @@
+node,var_name,var_description_english,var_description_italian,var_description_french,var_description_chinese,treatment,target
+1,Smoking,smoking,fumare,fumer,吸烟,0,1
+2,Covid-19 severity,severity of covid-19 infection,gravità del covid-19,gravité du covid-19,Covid-19严重程度,0,0
+3,Healthcare worker,being a healthcare worker,essere un operatore sanitario,être un travailleur de la santé,是一名医护人员,1,0
+4,Covid-19 test,being tested for covid-19,positivo al test covid-19,test covid-19 positif,Covid-19测试,0,0

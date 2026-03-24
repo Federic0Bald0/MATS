@@ -1,0 +1,9 @@
+node,var_name,var_description_english,var_description_italian,var_description_french,var_description_chinese,treatment,target
+1,temperature,temperature,temperatura,température,温度,1,0
+2,dew,dew point temperature,temperatura di rugiada,température de rosée,露点,0,0
+3,humidity,relative humidity,umidità relativa,humidité relative,相对湿度,0,0
+4,beta,transmission rate of a disease,indice di trasmissione di una malattia,taux de transmission d'une maladie,疾病传播率,0,0
+5,inc,rate of incidence of a disease in the population,tasso di incidenza di una malattia nella popolazione,taux d'incidence d'une maladie dans la population,人群中疾病发病率,0,1
+6,inf,rate of infection of a disease in the population,tasso di infezione di una malattia nella popolazione,taux d'infection d'une maladie dans la population,人群中疾病感染率,0,0
+7,susc,size of the susceptible population,dimensione della popolazione suscettibile,taille de la population susceptible,易感人群规模,0,0
+8,obs_inc,observed incidence rate in the population,tasso di incidenza osservato nella popolazione,taux d'incidence observé dans la population,人群中观察到的发病率,0,0

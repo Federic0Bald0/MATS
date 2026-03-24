@@ -1,0 +1,5 @@
+higher susceptibility to develop severe covid-19 infection,hospitalization,0.32990051483816124
+higher susceptibility to develop severe covid-19 infection,death,-0.85883380992796
+hospitalization,death,0.5221621430039474
+using ace inhibitors,hospitalization,0.856313308470401
+using ace inhibitors,death,0.6165470691352907
