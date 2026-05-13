@@ -37,3 +37,18 @@ python main.py --dataset cancer --model gpt-4.1-nano
 Computing the consistency matrix might require a lot time. 
 To make things easier, most of the consistency matrix for the dataset available in the folder data 
 are already stored in the folder data/consistency_matrix.
+
+
+If you use this code in your scientific paper, please consider citing:
+
+```
+
+@inproceedings{
+baldo2026retrieving,
+title={Retrieving Classes of Causal Orders with Inconsistent Knowledge Bases},
+author={Federico Baldo and Simon Ferreira and Charles K. Assaad},
+booktitle={Fifth Conference on Causal Learning and Reasoning},
+year={2026},
+url={https://openreview.net/forum?id=hMaHG2AnL9}
+}
+```
